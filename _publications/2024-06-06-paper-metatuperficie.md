@@ -2,7 +2,7 @@
 title: 'Metasuperficie para el sensado biomédico basado en teraherzios: sensor de lactosa'
 collection: publications
 category: manuscripts
-permalink: [/publication/Metasuperficie-para-el-sensado-biomédico-basado-en-teraherzios](https://academica-e.unavarra.es/server/api/core/bitstreams/4bfbdceb-6212-4e65-bf8c-f8cc5fd93b6c/content)
+permalink: [/publication/2024-06-06-paper-metatuperficie.md]
 excerpt: 'En este proyecto, se propone el estudio e implementación de una meta-superficie diseñada para presentar un pico resonante a la misma frecuencia que el α-lactosa monohidrato, funcionando así como un sensor de lactosa. Inicialmente, se analiza el estado del arte en el campo y se describe el proceso de diseño y simulación de la meta-superficie utilizando CST Microwave Studio. Se evaluaron dos estructuras distintas: una de naturaleza inductiva y otra de naturaleza capacitiva. Un análisis paramétrico de diferentes grosores de analito demostró el comportamiento superior de la estructura capacitiva en términos de sensado. Finalmente, se discuten los diversos resultados obtenidos y se presenta la estructura fabricada con el equipo disponible en la universidad.'
 date: 2024-06.06
 # venue: 'Journal 1'
