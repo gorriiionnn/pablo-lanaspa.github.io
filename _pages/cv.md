@@ -11,35 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Doble Grado en Ingeniería Biomédica e Ingeniería en Tecnologías de la Telecomunicación, UPNA, 2020-2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Verano 2024: Estudiante en prácticas 
+  * Das-Nano
+  * Desarrollo de algoritmo de segmentación de imágenes para análisis de superficies
+  * Modelización del reflejo de ondas THz en curvas (Python/Matlab)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Otoño 2024: Beca de Colaboración
+  * Universidad Pública de Navarra
+  * Desarrollo de meta superfi cie para detección de lactosa usando THz
+  * Supervisor: Miguel Beruete Díaz
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programación: Python, Matlab, algoritmos de IA.
+* Modelización física/matemática.
+  * Uso de software de simulación (CST)
+* Inglés proficiency C1
 
 Publications
 ======
@@ -47,18 +39,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Experiencia en gestión de equipos y proyectos 
