@@ -1,5 +1,5 @@
 ---
-title: "Metasuperficie para el sensado biomédico basado en teraherzios: sensor de lactosa"
+title: 'Metasuperficie para el sensado biomédico basado en teraherzios: sensor de lactosa'
 collection: publications
 category: manuscripts
 permalink: [/publication/Metasuperficie-para-el-sensado-biomédico-basado-en-teraherzios](https://academica-e.unavarra.es/server/api/core/bitstreams/4bfbdceb-6212-4e65-bf8c-f8cc5fd93b6c/content)
