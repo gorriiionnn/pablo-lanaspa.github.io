@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educación
 ======
 * Doble Grado en Ingeniería Biomédica e Ingeniería en Tecnologías de la Telecomunicación, UPNA, 2020-2025
 
-Work experience
+Experiencia
 ======
 * Verano 2024: Estudiante en prácticas 
   * Das-Nano
@@ -26,21 +26,20 @@ Work experience
   * Supervisor: Miguel Beruete Díaz
 
   
-Skills
+Habilidades
 ======
 * Programación: Python, Matlab, algoritmos de IA.
 * Modelización física/matemática.
   * Uso de software de simulación (CST)
 * Inglés proficiency C1
 
-Publications
+Publicaciones
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
 
   
-Service and leadership
+Servicio y liderazgo
 ======
 * Experiencia en gestión de equipos y proyectos 
