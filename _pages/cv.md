@@ -15,7 +15,7 @@ Educación
 
 Experiencia
 ======
-* Verano 2024: Estudiante en prácticas 
+* Verano 2023-2024: Estudiante en prácticas 
   * Das-Nano
   * Desarrollo de algoritmo de segmentación de imágenes para análisis de superficies
   * Modelización del reflejo de ondas THz en curvas (Python/Matlab)
