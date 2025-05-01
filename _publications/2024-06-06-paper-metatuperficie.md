@@ -7,7 +7,7 @@ excerpt: 'En este proyecto, se propone el estudio e implementación de una meta-
 date: 2024-06.06
 # venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'files/Metasuperficie_thz_lactosa.pdf'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Lanaspa Orúe, Pablo. "Metasuperficies para el sensado biomédico basado en teraherzios." (2024).'
 ---
