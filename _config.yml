@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Pablo Lanaspa/ CV"
+title                    : "Pablo Lanaspa"
 title_separator          : "-"
-name                     : &name "Pablo Lanaspa Orúe "
+name                     : &name "Pablo"
 description              : &description "Graduado en Ingeniería Biomédica e Ingeniería en Tecnologías de la Telecomunicación"
 url                      : https://pablo-lanaspa.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gorriiionnn/pablo-lanaspa.github.io"
+repository               : "pablo-lanaspa.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,31 +23,31 @@ repository               : "gorriiionnn/pablo-lanaspa.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Pablo Lanaspa Orúe"
   pronouns         :  "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Graduado en el Doble Grado de Ingeniería Biomédica e Ingeniería en Tecnologías de la Telecomunicación, soy un apasionado de la tecnología siempre buscando algo nuevo que aprender. Toda rama de la ciencia e ingeniería me interesa y mi aspiración es poder desarrollar tecnología sostenible y accesible."
   location         : "Navarra"
-  employer         : "Red Brick University"
+  employer         : "Universidad Pública de Navarra"
   uri              : # URL
   email            : "pablolanaspa10@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+ # arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=wy_oomcAAAAJ&hl=es"
-  impactstory      : # URL
+ # impactstory      : # URL
   orcid            : "http://orcid.org/0009-0000-7929-0888"
-  semantic         : # URL
-  pubmed           : # URL
+ # semantic         : # URL
+ # pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Pablo-Lanaspa?ev=hdr_xprf"
-  scopus           : # URL
+ # scopus           : # URL
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+ # bitbucket        : # Username - Update with your username on the site
+  #codepen          : # Username
+  #dribbble         : # Username
+  #github           : "academicpages"
+  #kaggle           : # Username  
+  #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
