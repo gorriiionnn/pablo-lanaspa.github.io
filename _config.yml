@@ -22,7 +22,7 @@ repository               : "pablo-lanaspa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "1710784555241.jfif"
+  avatar           : "/images/1710784555241.jfif"
   name             : "Pablo Lanaspa Orúe"
   pronouns         :  "he/him"  
   bio              : "Graduado en el Doble Grado de Ingeniería Biomédica e Ingeniería en Tecnologías de la Telecomunicación, soy un apasionado de la tecnología siempre buscando algo nuevo que aprender. Toda rama de la ciencia e ingeniería me interesa y mi aspiración es poder desarrollar tecnología sostenible y accesible."
